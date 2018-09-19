@@ -1,0 +1,15 @@
+mode: set
+github.com/settermjd/antoratools/buildtester.go:12.13,14.2 1 0
+github.com/settermjd/antoratools/buildtester.go:18.56,19.27 1 1
+github.com/settermjd/antoratools/buildtester.go:23.2,24.46 2 1
+github.com/settermjd/antoratools/buildtester.go:28.2,28.55 1 1
+github.com/settermjd/antoratools/buildtester.go:19.27,21.3 1 1
+github.com/settermjd/antoratools/buildtester.go:24.46,26.3 1 1
+github.com/settermjd/antoratools/buildtester.go:32.46,34.16 2 0
+github.com/settermjd/antoratools/buildtester.go:38.2,38.12 1 0
+github.com/settermjd/antoratools/buildtester.go:34.16,35.13 1 0
+github.com/settermjd/antoratools/buildtester.go:42.27,45.21 3 0
+github.com/settermjd/antoratools/buildtester.go:48.2,48.38 1 0
+github.com/settermjd/antoratools/buildtester.go:53.2,53.17 1 0
+github.com/settermjd/antoratools/buildtester.go:45.21,47.3 1 0
+github.com/settermjd/antoratools/buildtester.go:48.38,51.3 2 0
