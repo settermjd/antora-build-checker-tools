@@ -9,7 +9,7 @@ Currently, it only checks an AsciiDoc file for a limited amount of reStructuredT
 Specifically, this is only headers.
 Formatting such as source includes, lists etc, is not yet covered.
 
-## Installing
+## Installing
 
 To install the app, compile it for your platform.
 
@@ -17,7 +17,7 @@ To install the app, compile it for your platform.
 
 The script, currently, reads a filename from stdin.
 
-### Example
+### Example
 
 ```
 echo ./docs/modules/ROOT/pages/configuration/server/antivirus_configuration.adoc | antora-build-checker-tools
